@@ -85,7 +85,7 @@ void LCD_Send4Bit(uint8_t data) {
 
 ## 🎞️ 시연 영상
 
-- 🔗 [동작 영상](https://youtube.com/shorts/3SWXgfUtDQU)
+- 🔗 [동작 영상](https://youtube.com/shorts/IGYyfmROVl4)
 
 ---
 
